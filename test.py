@@ -1,4 +1,4 @@
-i = 21
+i = 12
 
 if i > 0:
     print("i is positive")
